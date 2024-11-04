@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SemaforProject.dir/src/core/main.cpp.o -o SemaforProject  libSemaforLib.a

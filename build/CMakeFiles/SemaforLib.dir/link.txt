@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSemaforLib.a CMakeFiles/SemaforLib.dir/src/semafor/Semafor.cpp.o
-/usr/bin/ranlib libSemaforLib.a

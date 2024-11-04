@@ -1,4 +1,0 @@
-/home/cristian/projectsc++/semafor/semafor/build/CMakeFiles/SemaforLib.dir
-/home/cristian/projectsc++/semafor/semafor/build/CMakeFiles/SemaforProject.dir
-/home/cristian/projectsc++/semafor/semafor/build/CMakeFiles/edit_cache.dir
-/home/cristian/projectsc++/semafor/semafor/build/CMakeFiles/rebuild_cache.dir
